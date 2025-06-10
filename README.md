@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Tendyporã! 👋
 
-<!--
-**tendypora/tendypora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Resumo Profissional**  
+Graduando em Análise e Desenvolvimento de Sistemas, com curso de análise de dados e especialização em cloud computing pelo AWS re/Start. Conhecimentos em Python, SQL, Terraform, AWS, Azure e bancos de dados, com 10+ anos em marketing digital e gestão de projetos. Busco atuar como Analista de Dados Júnior criando soluções analíticas em ambientes de nuvem.
 
-Here are some ideas to get you started:
+☁️ **Habilidades**  
+- Python, SQL, Terraform
+- AWS (EC2, S3, RDS, IAM, CloudFormation)
+- Microsoft Azure (arquitetura, governança)
+- Bancos de Dados (RDS, DynamoDB)
+- Análise de Dados, Visualização de Dados
+- Cloud Computing
+- Java, Spring Boot, APIs REST
+- DevOps (CI/CD, CodePipeline)
+- Networking (VPC, roteadores, switches)
+- Linux/Windows, Segurança na Nuvem
+- Canva, Adobe Photoshop, Corel Draw, OBS Studio, CapCut
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Conecte-se comigo**  
+[LinkedIn](https://www.linkedin.com/in/tendypora/)
+
+---
+
+✨ _Seja bem-vindo(a) ao meu perfil!_
