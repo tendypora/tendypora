@@ -3,7 +3,7 @@
 # Olá, eu sou o Tendy Porã! 👋
 
 ### 📊 Análise de Dados · 📈 Business Intelligence · ⚙️ Automação de Processos · 🤖 IA & Cloud
-**Graduando em Análise e Desenvolvimento de Sistemas (IMES) | Formado pelo AWS re/Start (Escola da Nuvem) | 2x Certificado AWS**
+**Graduando em Análise e Desenvolvimento de Sistemas (IMES) | AWS re/Start (Escola da Nuvem) | 2x AWS Certified Cloud and IA Practitioner
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/tendypora/)
 [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/tendypora/)
